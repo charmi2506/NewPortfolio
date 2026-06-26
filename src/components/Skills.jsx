@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import SkillCard from "./SkillCard";
-import { skills, codingProfiles } from "../data/SkillsData";
+import { skills, codingProfiles } from "../data/skillsData";
 
 export default function Skills() {
   return (
