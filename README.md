@@ -6,7 +6,7 @@ A modern, responsive personal portfolio built with **React**, **Vite**, **Tailwi
 
 > Add your Vercel link after deployment
 
-**Live Website:** https://your-portfolio.vercel.app
+**Live Website:** new-portfolio-rouge-psi.vercel.app
 
 ---
 
