@@ -1,16 +1,99 @@
-# React + Vite
+# 🌐 Charmi Gubbala – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion** to showcase my projects, technical skills, experience, certifications, and competitive programming journey.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> Add your Vercel link after deployment
 
-## React Compiler
+**Live Website:** https://your-portfolio.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 👩‍💻 About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I'm an **Artificial Intelligence & Machine Learning student** and **Full Stack Developer** passionate about building scalable web applications and AI-powered solutions.
+
+### Areas of Interest
+
+* Artificial Intelligence
+* Full Stack Development
+* Generative AI
+* Software Engineering
+* Problem Solving
+
+---
+
+## ✨ Features
+
+* Responsive Design
+* Modern UI with Glassmorphism
+* Smooth Animations using Framer Motion
+* Interactive Skills Section
+* Competitive Programming Profiles
+* Project Showcase
+* Experience Timeline
+* Certifications
+* Achievements
+* Contact Section
+* Resume Download
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React
+* Vite
+* Tailwind CSS
+* Framer Motion
+
+### Languages
+
+* Java
+* Python
+* C++
+* JavaScript
+* TypeScript
+
+### Backend
+
+* Node.js
+* Express.js
+* Spring Boot
+* FastAPI
+
+### Databases
+
+* MongoDB
+* PostgreSQL
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* Docker
+* Apache Kafka
+
+---
+
+## 📂 Featured Projects
+
+* PolicyGuard AI
+* Event-Driven Order Processing
+* WebRTC Multi-Peer Video Chat
+* Expense Tracker
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/charmi2506
+* LinkedIn: https://www.linkedin.com/in/charmi-gubbala-3bb927290/
+* Email: [charmii2506@gmail.com](mailto:charmii2506@gmail.com)
+
+---
+
+⭐ If you like this portfolio, consider giving the repository a star.
